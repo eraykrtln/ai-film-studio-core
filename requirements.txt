@@ -1,0 +1,8 @@
+gradio
+moviepy==1.0.3
+edge-tts
+diffusers
+transformers
+accelerate
+requests
+Pillow
