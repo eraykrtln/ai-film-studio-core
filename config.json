@@ -1,0 +1,8 @@
+{
+  "quality": "1080p",
+  "upscale_to": "4k",
+  "fps": 24,
+  "style": "cinematic_animation",
+  "music_volume": 0.2,
+  "auto_render": true
+}
