@@ -1,6 +1,7 @@
 {
-  "id": 5001,
-  "title": "Karakalem Spider-Man",
-  "style": "karakalem",
-  "script": "Spider-man standing on a Bursa clock tower"
+  "id": 5002,
+  "title": "Hareketli Gelecek",
+  "type": "video",
+  "style": "cyberpunk",
+  "script": "Flying cars moving through rainy streets"
 }
