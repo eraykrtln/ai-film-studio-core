@@ -1,8 +1,6 @@
-[
-  {
-    "id": 4001,
-    "title": "Geleceğin Bursa'sı",
-    "style": "cyberpunk",
-    "script": "Bursa city center with futuristic flying cars and neon Ulu Cami"
-  }
-]
+{
+  "id": 5001,
+  "title": "Karakalem Spider-Man",
+  "style": "karakalem",
+  "script": "Spider-man standing on a Bursa clock tower"
+}
