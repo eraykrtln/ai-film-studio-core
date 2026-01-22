@@ -1,7 +1,8 @@
-{
-  "id": 5002,
-  "title": "Hareketli Gelecek",
-  "type": "video",
-  "style": "cyberpunk",
-  "script": "Flying cars moving through rainy streets"
-}
+[
+  {
+    "id": 8888,
+    "title": "Retro Bursa Denemesi",
+    "style": "retro_1950",
+    "script": "Bursa city center in 1950s style, vintage cars near Ulu Cami, technicolor photography"
+  }
+]
